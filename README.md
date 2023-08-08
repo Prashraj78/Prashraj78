@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Patil</h1>
 <h3 align="center">A passionate frontend developer from Maharashtra</h3>
-<img aligh="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fhasibul-hasan-shuvo%2Fhasibul-hasan-shuvo%2Fmain%2Fimages%2Fcoding-boy.gif&tbnid=0kiuxvd4m9URIM&vet=12ahUKEwiWzaiO38yAAxU-5TgGHQVMA_4QMygSegUIARCeAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fhasibul-hasan-shuvo%2Fhasibul-hasan-shuvo&docid=WvjIsv0SzRmjQM&w=500&h=500&q=animated%20coding%20gif%20for%20github&ved=2ahUKEwiWzaiO38yAAxU-5TgGHQVMA_4QMygSegUIARCeAg"
+<img aligh="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fhasibul-hasan-shuvo%2Fhasibul-hasan-shuvo%2Fmain%2Fimages%2Fcoding-boy.gif&tbnid=0kiuxvd4m9URIM&vet=12ahUKEwiWzaiO38yAAxU-5TgGHQVMA_4QMygSegUIARCeAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fhasibul-hasan-shuvo%2Fhasibul-hasan-shuvo&docid=WvjIsv0SzRmjQM&w=500&h=500&q=animated%20coding%20gif%20for%20github&ved=2ahUKEwiWzaiO38yAAxU-5TgGHQVMA_4QMygSegUIARCeAg"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashraj78&label=Profile%20views&color=0e75b6&style=flat" alt="prashraj78" /> </p>
 
