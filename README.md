@@ -1,7 +1,7 @@
  <!-- Hea   der -->
 <h1 align="center">Hi there,  I'm Prashant Patil 👋</h1> 
 <h3 align="center">Passionate Frontend Developer from Maharashtra</h3>
-  
+   
 <!-- Profile Views and Trophies -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prashraj78&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
