@@ -21,8 +21,8 @@
 </p>
 
 <!-- Current Activities and About Me -->
-- 🔭 Currently working on: **CRM**
-- 🌱 Learning: **React.js**
+- 🔭 Currently working on: **Yahyabooking.com**
+- 🌱 Tech stack: **React.js, TailwindCss, react-icons**
 - 👯 Looking to collaborate on: Projects involving **React.js**
 - 💬 Ask me about: **React, development**
 - 📫 Reach me at: [Prashantrajputaaaa@gmail.com](mailto:Prashantrajputaaaa@gmail.com)
