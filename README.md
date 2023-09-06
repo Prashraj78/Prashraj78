@@ -4,12 +4,11 @@
    
 <!-- Profile Views and Trophies -->
 <p align="center">
-<!--   <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> -->
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prashraj78&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<!--  ## 🏆 GitHub Trophies -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=prashraj78&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 </p>
 
 <p align="center">
@@ -61,6 +60,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashraj78" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+</p>
 
 
