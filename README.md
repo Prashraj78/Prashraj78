@@ -1,5 +1,5 @@
               
-<h1 align="center">Hi there,  I'm Prashant Patil 👋</h1>  
+<h1 align="center">Hi there,  I'm Prashant Patil 👋</h1>   
 <h3 align="center">Passionate Frontend Developer from Maharashtra</h3>
    
 <!-- Profile Views and Trophies --> 
