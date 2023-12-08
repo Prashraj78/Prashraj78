@@ -1,5 +1,4 @@
-                                                                                                     
-<h1 align="center">Hi there,  I'm Prashant Patil 👋</h1>   
+<h1 align="center">Hi there, I'm Prashant Patil 👋</h1>   
 <h3 align="center">Passionate Frontend Developer from Maharashtra</h3>
    
 <!-- Profile Views and Trophies --> 
@@ -21,10 +20,10 @@
 </p>
 
 <!-- Current Activities and About Me -->
-- 🔭 Currently working on: **https://exeper-web.vercel.app/**
-- 🌱 Tech stack: **React.js, TailwindCss, react-icons**
-- 👯 Looking to collaborate on: Projects involving **React.js**
-- 💬 Ask me about: **React, development**
+- 🔭 Currently working on: [https://exeper-web.vercel.app/](https://exeper-web.vercel.app/)
+- 🌱 Tech stack: React.js, TailwindCss, react-icons
+- 👯 Looking to collaborate on: Projects involving React.js
+- 💬 Ask me about: React, development
 - 📫 Reach me at: [Prashantrajputaaaa@gmail.com](mailto:Prashantrajputaaaa@gmail.com)
 - ⚡ Fun fact: I'm passionate about coding
 
@@ -56,3 +55,4 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashraj78" alt="GitHub Streak" />
 </p>
+
